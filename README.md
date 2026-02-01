@@ -1,16 +1,5 @@
-# ssaiaforme
+# ssaia
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+소프트웨어 경력 통합/관리 플랫폼 MVP
+1. 공지사항 통합 : 소프트웨어중심대학사업단, 빅데이터혁신융합사업단, 학과 홈페이지 등 여러 출처의 공지사항을 최신순으로 모아 보여주는 통합된 정보 피드를 제공
+2. 자동 캘린더 저장 : 공지사항 탭에서 버튼을 단 한 번 클릭하는 것만으로, 공지사항에 대한 신청/활동 기간이 자동 저장
